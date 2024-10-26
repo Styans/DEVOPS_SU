@@ -16,4 +16,4 @@ jobs:
         python-version: '3.11.5'  # укажите необходимую версию Python
 
     - name: Run Python Script
-      run: thirdTech/script.py
+      run: /thirdTech/script.py
